@@ -1,0 +1,4 @@
+# .dockerignore server para escolher as pastas/arquivos que você quer q o docker ignore
+node_modules
+.git
+.vscode
